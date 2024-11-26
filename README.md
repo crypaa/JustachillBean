@@ -1,1 +1,2 @@
 # JustachillBean
+# Add logo image
